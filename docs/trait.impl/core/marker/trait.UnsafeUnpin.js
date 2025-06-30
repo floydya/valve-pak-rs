@@ -1,0 +1,9 @@
+(function() {
+    var implementors = Object.fromEntries([["valve_pak",[["impl UnsafeUnpin for <a class=\"enum\" href=\"valve_pak/vpk/enum.VPKVersion.html\" title=\"enum valve_pak::vpk::VPKVersion\">VPKVersion</a>",1,["valve_pak::vpk::VPKVersion"]],["impl UnsafeUnpin for <a class=\"struct\" href=\"valve_pak/file/struct.FileMetadata.html\" title=\"struct valve_pak::file::FileMetadata\">FileMetadata</a>",1,["valve_pak::file::FileMetadata"]],["impl UnsafeUnpin for <a class=\"struct\" href=\"valve_pak/file/struct.VPKFile.html\" title=\"struct valve_pak::file::VPKFile\">VPKFile</a>",1,["valve_pak::file::VPKFile"]],["impl UnsafeUnpin for <a class=\"struct\" href=\"valve_pak/vpk/struct.VPK.html\" title=\"struct valve_pak::vpk::VPK\">VPK</a>",1,["valve_pak::vpk::VPK"]],["impl UnsafeUnpin for <a class=\"struct\" href=\"valve_pak/vpk/struct.VPKChecksums.html\" title=\"struct valve_pak::vpk::VPKChecksums\">VPKChecksums</a>",1,["valve_pak::vpk::VPKChecksums"]],["impl UnsafeUnpin for <a class=\"struct\" href=\"valve_pak/vpk/struct.VPKHeader.html\" title=\"struct valve_pak::vpk::VPKHeader\">VPKHeader</a>",1,["valve_pak::vpk::VPKHeader"]]]]]);
+    if (window.register_implementors) {
+        window.register_implementors(implementors);
+    } else {
+        window.pending_implementors = implementors;
+    }
+})()
+//{"start":57,"fragment_lengths":[1085]}

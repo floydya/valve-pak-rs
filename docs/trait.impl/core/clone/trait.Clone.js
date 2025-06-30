@@ -1,0 +1,9 @@
+(function() {
+    var implementors = Object.fromEntries([["valve_pak",[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.88.0/core/clone/trait.Clone.html\" title=\"trait core::clone::Clone\">Clone</a> for <a class=\"enum\" href=\"valve_pak/vpk/enum.VPKVersion.html\" title=\"enum valve_pak::vpk::VPKVersion\">VPKVersion</a>"],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.88.0/core/clone/trait.Clone.html\" title=\"trait core::clone::Clone\">Clone</a> for <a class=\"struct\" href=\"valve_pak/file/struct.FileMetadata.html\" title=\"struct valve_pak::file::FileMetadata\">FileMetadata</a>"],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.88.0/core/clone/trait.Clone.html\" title=\"trait core::clone::Clone\">Clone</a> for <a class=\"struct\" href=\"valve_pak/vpk/struct.VPKChecksums.html\" title=\"struct valve_pak::vpk::VPKChecksums\">VPKChecksums</a>"],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.88.0/core/clone/trait.Clone.html\" title=\"trait core::clone::Clone\">Clone</a> for <a class=\"struct\" href=\"valve_pak/vpk/struct.VPKHeader.html\" title=\"struct valve_pak::vpk::VPKHeader\">VPKHeader</a>"]]]]);
+    if (window.register_implementors) {
+        window.register_implementors(implementors);
+    } else {
+        window.pending_implementors = implementors;
+    }
+})()
+//{"start":57,"fragment_lengths":[1108]}

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["EMBEDDED_ARCHIVE_INDEX","METADATA_SUFFIX","VPK_SIGNATURE"],"fn":["cstring_length","join_filename","normalize_path","read_cstring","read_cstring_buffered","read_exact_vec","split_filename","write_cstring"]};

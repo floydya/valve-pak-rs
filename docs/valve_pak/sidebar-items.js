@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["from_directory","open"],"mod":["file","utils","vpk"]};
